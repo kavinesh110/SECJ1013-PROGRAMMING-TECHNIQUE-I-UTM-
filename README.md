@@ -4,6 +4,12 @@
 As a fundamental subject, this course equips the myself with theory and practice on problem solving techniques by using the structured approach. I also required to develop programs using C++ programming language, in order to solve simple to moderate problems. The course covers the following: preprocessor directives, constants and variables, data types, input and output statements, control structures: sequential, selection and loop, built-in and user-defined functions, single and two dimensional arrays, file operations, pointers, and structured data types.
 <br />
 
+<h2>Reflection</h2>
+The Programming Technique 1 course has been an excellent introduction to the fundamentals of programming. I learned essential concepts such as data types, control structures (if-else, loops), and functions, which form the building blocks of programming. Writing, debugging, and refining programs helped me strengthen my problem-solving skills.I particularly enjoyed learning about modular programming, which emphasized the importance of breaking down problems into smaller, manageable parts. The hands-on exercises and assignments improved my logical thinking and coding proficiency.This course has laid a strong foundation for my programming journey and prepared me to explore more advanced topics in computer science.
+<br />
+
+
+
 
 <h2>Week 1 (6/10/24-10/10/24)</h2>
 
